@@ -1,0 +1,1 @@
+decrease and increase the browser width to change the color
